@@ -71,5 +71,6 @@ ol,ul {
 
 .lista-numerada{
     list-style: decimal;
+    list-style-position: inside;
     
 }
